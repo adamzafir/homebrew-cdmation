@@ -13,7 +13,7 @@ class Cdmation < Formula
   def caveats
     <<~EOS
       Add this line to your ~/.zshrc:
-        source "#{pkgshare}/cdmation-hook.zsh"
+        source "#{opt_pkgshare}/cdmation-hook.zsh"
     EOS
   end
 
