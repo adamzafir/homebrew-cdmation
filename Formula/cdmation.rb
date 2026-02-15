@@ -2,7 +2,7 @@ class Cdmation < Formula
   desc "Automations for your cds"
   homepage "https://github.com/adamzafir/cdmation"
   url "https://github.com/adamzafir/cdmation/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "92c7931e670646c23f35fbe52a6ddc7962c6bdf04d1faf7aea2e434b00c874b3"
+  sha256 "56100bcb6f85987cbe72856f4a6aa5a168768df8caa068a247a285f636692b62"
   license "MIT"
 
   def install
